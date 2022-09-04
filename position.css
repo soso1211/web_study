@@ -1,0 +1,23 @@
+.static_position{
+    position: static;
+    border: 5px solid salmon;
+}
+.relative_position{
+    position: relative;
+    border: 5px solid rgb(118, 250, 114);
+    left: 30px;
+}
+.absolute_position_2{
+    position: absolute;
+    top: 50px;
+    border: 5px solid rgb(118, 250, 114);
+    width: 200px;
+    height: 100px;
+    right: 0;
+}
+.relative_position_2{
+    position: relative;
+    border: 5px solid red;
+    width: 500px;
+    height: 200px;
+}

@@ -1,0 +1,28 @@
+.logo{
+    display: inline-block;
+}
+
+.header{
+    position: relative;
+    min-width: 1024px;
+    width: 1280px;
+    margin: 0 auto;
+    height: 73px;
+    display: flex;
+    align-items: center;
+}
+.nav il{
+    padding: 12px;
+}
+.nav ul{
+    padding: 0px;
+    margin-left: 20px;
+}
+.quick_meun il{
+    padding: 16px;
+    border: 1px solid gray
+}
+.quick_meun{
+    position: absolute;
+    right: 0;
+}
